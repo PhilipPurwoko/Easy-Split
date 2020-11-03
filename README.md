@@ -2,7 +2,7 @@
 Simple and powerfull python script to easily split your data into traning and validation (for deep learning projects). Works in binary and multiclass classification.
 
 # How it works ?
-This script is useful in this scenario. Inside `data` folder we may have binary or multiclass. But we need to have `train` and `valid` folder. Because I am to lazy to do it mannually in every projects, and because I am nerd, so I make simple python script to automate them.
+This script can be useful if you want to use keras ImageGenerator `flow_from_directory`. This script can create `train` and `valid` folder using class folder
 
 ```
 └───data
